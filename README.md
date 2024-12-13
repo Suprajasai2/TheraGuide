@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project aims to support mental health line workers by providing a Retrieval-Augmented Generation (RAG)-based chatbot. The chatbot is designed to assist workers by analyzing conversation summaries and providing actionable insights. It classifies the patient's condition into severity categories and offers tailored suggestions to ensure better care and improved patient safety.
+This project aims to support mental health line workers by providing a Retrieval-Augmented Generation (RAG)-based chatbot. The chatbot is designed to assist workers by analyzing conversation summaries and providing insights. It classifies the patient's condition into severity categories and offers tailored suggestions to ensure better care and improved patient safety.
 
 ## Key Features
 
